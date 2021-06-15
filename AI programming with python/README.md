@@ -1,0 +1,2 @@
+The AI Programming with Python Nanodegree program makes it easy to learn the in-demand skills employers are looking for. You’ll learn foundational AI programming tools (Python, NumPy, PyTorch) and the essential math skills (linear algebra and calculus) that will enable you to start building your own AI applications in just three months.
+Whether you’re seeking a full-time role in an AI-related field, want to start applying AI solutions in your current role, or simply want to start learning the defining technology of our time, this is the perfect place to get started.
